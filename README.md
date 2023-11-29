@@ -1,6 +1,6 @@
 # Exercícios Monitoria INFNET, 01 de novembro
 
-#### Objetivos: Identificar dúvidas pertinentes e comentar sobre o desenvolvimento de software utilizando Typescript. Exemplificando o uso da orientação a objetos para um software mais consistente e abordando práticas para a solução de problemas utilizando princípios de SOLID.
+#### Objetivos: Identificar dúvidas pertinentes e comentar sobre o desenvolvimento de software utilizando Typescript. Exemplificando o uso da orientação a objetos para um software mais consistente e abordando práticas para a solução de problemas utilizando princípios S.O.L.I.D.
 
 # Antes de começar: 
 
