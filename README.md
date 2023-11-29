@@ -74,7 +74,7 @@ Dada a interface
         obterPerimetro()
     }
 
-Utilize as classes que representam figuras geométricas criadas anteriormente e implemente a classe utilizando a interface IFormaGeométrica.
+Utilize as classes que representam figuras geométricas criadas anteriormente e implemente elas utilizando a interface IFormaGeométrica.
 
 
   
