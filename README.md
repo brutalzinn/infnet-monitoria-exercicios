@@ -8,6 +8,8 @@
    
 3. Prepare seu ambiente para utilizar o Visual Code como editor de código.
    
+4. Ao clonar esse repositório, não esqueça de executar o npm install para instalar as dependências de typescript.
+   
 
 # PARTE I - Testando conhecimentos básicos em javascript.
 
@@ -37,9 +39,9 @@
 
 ## Utilize typescript para resolver os exercícios abaixo:
 
-### Utilize o comando npx tsc para compilar seu script para javascript.
+## Utilize o comando npx tsc para compilar seu script para javascript.
 
-### Todos os exercícios devem utilizar tipos primitivos. Se puder, utilize também classes.
+## Todos os exercícios devem utilizar tipos primitivos. Se puder, utilize também classes para representar entidades.
 
 1) Crie uma função que receba nome, idade e retorne um texto com nome e idade recebidos. Exemplo: "nome: Alfredo, idade: 23"
 
@@ -50,9 +52,10 @@
 4) Escreva uma função que receba uma pessoa como parâmetro e retorne o nome dela.
 
 5) Dado o tamanho do lado de um quadrado, calcular a área e o perímetro do mesmo.
-   
-6) Dado uma lista de números inteiros (1,2,3,4 e 5), calcule a soma entre eles.
 
-7)  Crie uma função que receba três números como parâmetros e calcule a média aritmética entre eles.
-    
-    
+6) Crie uma classe que represente um quadrado e adicione um comportamento para que possa calcular área e o perímetro.
+   
+7) Dado uma lista de números inteiros (1,2,3,4 e 5), calcule a soma entre eles.
+
+8)  Crie uma função que receba três números como parâmetros e calcule a média aritmética entre eles.
+  
