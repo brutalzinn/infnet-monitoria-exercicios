@@ -1,15 +1,19 @@
 # Exercícios Monitoria INFNET, 01 de novembro
 
+#### Objetivos: Identificar dúvidas pertinentes e comentar sobre o desenvolvimento de software utilizando Typescript. Exemplificando o uso da orientação a objetos para um software mais consistente e abordando práticas para a solução de problemas utilizando princípios de SOLID.
+
 # Antes de começar: 
 
-1. Escreva o programa para cada exercício utilizando o formato de arquivo: numero_questao.resposta.js
+1. Escreva o programa para cada exercício utilizando o formato de arquivo: numero_questao.resposta.{.js ou .ts}
 
-2. Certifique de ter o NodeJs instalado
+2. Certifique de ter o NodeJs instalado.
    
 3. Prepare seu ambiente para utilizar o Visual Code como editor de código.
    
-4. Ao clonar esse repositório, não esqueça de executar o npm install para instalar as dependências de typescript.
+4. Ao clonar esse repositório, não esqueça de executar o npm install para instalar as dependências.
    
+5. Bons estudos!
+
 
 # PARTE I - Testando conhecimentos básicos em javascript.
 
@@ -58,4 +62,19 @@
 7) Dado uma lista de números inteiros (1,2,3,4 e 5), calcule a soma entre eles.
 
 8)  Crie uma função que receba três números como parâmetros e calcule a média aritmética entre eles.
+   
+9)  Crie uma classe que represente um círculo e deve conter uma função para calcular seu perímetro e área. Lembre que: A área de uma círculo é dada por: A = π r² e o perímetro é dado por:  2 * π * r
+
+### QUESTÃO BÔNUS
+
+Dada a interface 
+
+    interface IFormaGeométrica{
+        obterArea()
+        obterPerimetro()
+    }
+
+Utilize as classes que representam figuras geométricas criadas anteriormente e implemente a classe utilizando a interface IFormaGeométrica.
+
+
   
