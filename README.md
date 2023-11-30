@@ -47,6 +47,7 @@
 
 ## Todos os exercícios devem utilizar tipos primitivos. Se puder, utilize também classes para representar entidades.
 
+
 1) Crie uma função que receba nome, idade e retorne um texto com nome e idade recebidos. Exemplo: "nome: Alfredo, idade: 23"
 
 2) Crie uma classe que represente uma pessoa e tenha as propriedades documento, nome e idade. 
@@ -59,12 +60,12 @@
 
 6) Crie uma classe que represente um quadrado e adicione um comportamento para que possa calcular área e o perímetro.
    
-7) Dado uma lista de números inteiros (1,2,3,4 e 5), calcule a soma entre eles.
+7) Dado uma lista de números inteiros (1,2,3,4 e 5), calcule a soma entre eles. Utilize apenas laços de interação simples.
 
 8)  Crie uma função que receba três números como parâmetros e calcule a média aritmética entre eles.
    
-9)  Crie uma classe que represente um círculo e deve conter uma função para calcular seu perímetro e área. Lembre que: A área de uma círculo é dada por: A = π r² e o perímetro é dado por:  2 * π * r
-
+9)  Crie uma classe que represente um círculo e deve conter uma função para calcular seu perímetro e área. Considere PI como 3,14 e Lembre que: A área de uma círculo é dada por: A = π r² e o perímetro é dado por:  2 * π * r
+    
 ### QUESTÃO BÔNUS
 
 Dada a interface 
