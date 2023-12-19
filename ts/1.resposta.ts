@@ -1,6 +1,7 @@
-function exibirNomeEIdade(nome: string, idade: number): string {
-    return `nome: ${nome},idade:${idade}`
+const EscreveNomeEIdade = (nome:string, idade:number) : string =>{
+    let resultado: string = `nome:${nome}, idade:${idade}`
+    return resultado
 }
 
-let resposta = exibirNomeEIdade("Alberto", 15)
-console.log(resposta)
+let resultado1 : string = EscreveNomeEIdade("Alfredo", 18)
+console.log(resultado1)
